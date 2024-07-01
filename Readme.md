@@ -21,7 +21,7 @@ El código está dividido en los siguientes archivos:
     ```
 3. Ejecute el archivo `main.py` para iniciar la aplicación:
     ```sh
-    python main.py
+    python main.py buscadorprop casa venta lanus
     ```
 4. seleccione el sitio web desde el cual desea obtener las propiedades.
 
